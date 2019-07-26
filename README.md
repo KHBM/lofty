@@ -23,7 +23,7 @@ So you guys should set kind of plan what you're supposed to for this project lik
 You can also:
   - Vote whom is perfect for a role.
   - Nothing but everything.
-  - Eat too much
+  - Eat too much.
 
 Once upon a time, a single drop of sunlight fell from the heavens. From it a [magical flower] bloomed that has the power to heal [the sick and pain][df1].
 
@@ -189,4 +189,3 @@ MIT
    [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
    [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
    [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
-
