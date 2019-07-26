@@ -156,7 +156,7 @@ See [KUBERNETES.md](https://github.com/joemccann/dillinger/blob/master/KUBERNETE
 ### Todos
 
  - Write MORE Tests
- - Add Night Mode
+ - Add Night Mode  
 
 License
 ----
